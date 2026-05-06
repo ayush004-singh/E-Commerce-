@@ -1,0 +1,78 @@
+# Spring Boot Backend Project
+
+A backend application developed using Spring Boot demonstrating REST APIs, backend architecture, and Maven-based project structure.
+
+---
+
+## 🚀 Features
+
+* REST API implementation
+* Spring Boot backend architecture
+* Maven project setup
+* Clean controller-service structure
+* JSON request/response handling
+
+---
+
+## 🛠 Tech Stack
+
+* Java
+* Spring Boot
+* Maven
+* REST APIs
+
+---
+
+## 📂 Project Structure
+
+```text id="s1apqj"
+E-Commerce/
+│
+├── src/
+├── pom.xml
+└── README.md
+```
+
+---
+
+## ▶️ How To Run
+
+### 1. Clone Repository
+
+```bash id="9ttml2"
+git clone https://github.com/ayush004-singh/E-Commerce-.git
+```
+
+### 2. Open Project
+
+Open in IntelliJ IDEA or VS Code.
+
+### 3. Run Application
+
+```bash id="1qk1qa"
+mvn spring-boot:run
+```
+
+---
+
+## 📌 Learning Outcomes
+
+* Backend API development
+* Spring Boot fundamentals
+* Maven dependency management
+* Java backend architecture
+
+---
+
+## 🔮 Future Improvements
+
+* Database integration
+* Authentication & authorization
+* Swagger API documentation
+* Docker deployment
+
+---
+
+## 👨‍💻 Author
+
+Ayush Singh
